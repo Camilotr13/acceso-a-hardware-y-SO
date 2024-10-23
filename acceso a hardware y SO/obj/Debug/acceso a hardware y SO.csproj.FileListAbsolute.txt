@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Desktop\programacion\c# HP II\acceso a hardware y SO\acceso a hardware y SO\bin\Debug\acceso a hardware y SO.exe.config
+C:\Users\USUARIO\Desktop\programacion\c# HP II\acceso a hardware y SO\acceso a hardware y SO\bin\Debug\acceso a hardware y SO.exe
+C:\Users\USUARIO\Desktop\programacion\c# HP II\acceso a hardware y SO\acceso a hardware y SO\bin\Debug\acceso a hardware y SO.pdb
+C:\Users\USUARIO\Desktop\programacion\c# HP II\acceso a hardware y SO\acceso a hardware y SO\obj\Debug\acceso a hardware y SO.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\programacion\c# HP II\acceso a hardware y SO\acceso a hardware y SO\obj\Debug\acceso a hardware y SO.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\programacion\c# HP II\acceso a hardware y SO\acceso a hardware y SO\obj\Debug\acceso a hardware y SO.exe
+C:\Users\USUARIO\Desktop\programacion\c# HP II\acceso a hardware y SO\acceso a hardware y SO\obj\Debug\acceso a hardware y SO.pdb
